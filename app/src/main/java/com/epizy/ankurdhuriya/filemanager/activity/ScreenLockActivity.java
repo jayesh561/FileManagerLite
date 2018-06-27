@@ -22,7 +22,7 @@ import com.google.android.gms.ads.InterstitialAd;
 import java.util.ArrayList;
 
 /*
- * Created by ankur on 23/06/18.
+ * Created by jayesh on 27/06/18.
  */
 public class ScreenLockActivity extends AppCompatActivity {
     private PreferManager preferManager;
